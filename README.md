@@ -13,8 +13,8 @@
 - 🔍 Learning [Flutter](https://flutter.dev) by re-building my first published React Native app.
 - 🖥 Finished building my personal website that's live @ [BADERproductions.net](https://baderproductions.net).
 - 📱 Published my first [React Native](https://reactnative.dev) app, live on Google Play Store @ [Filelist App](https://play.google.com/store/apps/details?id=com.baderproductions.fl).
-- ⚡ Builded a IMDb title scrapper with Node.js. Repository can be seen @ [imdb-scraper](https://github.com/baderproductions/imdb-scraper) and the scraper is live @ [Spleeter.co.uk](https://spleeter.co.uk/).
-- 💵 Got my first commission for a website I built for a Chef which Can be seen live @ [RaulVidican.ro](https://raulvidican.ro/).
+- ⚡ Builded a IMDb title scrapper with Node.js. Repository can be seen @ [imdb-scraper](https://github.com/baderproductions/imdb-scraper) and the scraper is live @ [spleeter.co.uk](https://spleeter.co.uk/).
+- 💵 Got my first commission for a website I built for a Chef which is live @ [RaulVidican.ro](https://raulvidican.ro/).
 
 ### 💻 Stack
 
