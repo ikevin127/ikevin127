@@ -1,20 +1,20 @@
 <p align="center">
  <img width="130px" src="https://i.epvpimg.com/Tbtpbab.png" align="center" alt="BADERproductions Logo" />
  <h2 align="center">BADERproductions</h2>
- <p align="center">👊  Hello there, welcome to my GitHub profile</p>
+ <p align="center">👊  Hello there, welcome to my profile</p>
 </p>
 
 ### 👤  Who am I ?
 
-**Full-Stack developer, tech & fitness enthusiast, [The Mars Society](https://www.marssociety.org/) member and brother to sum up a few**
+**Full-Stack developer, tech & fitness enthusiast, [The Mars Society](https://www.marssociety.org/) member to sum up a few**
 > To find out more about me you can read the **Story** on my website @ [BADERproductions.net](https://baderproductions.net)
 
 **What I'm about to these days:**
-- 🔍  Learning [Flutter](https://flutter.dev) by re-building my first published React Native app.
-- 🖥  Finished building my personal website that's live @ [BADERproductions.net](https://baderproductions.net).
-- 📱  Published my first [React Native](https://reactnative.dev) app, live on Google Play Store @ [Filelist App](https://play.google.com/store/apps/details?id=com.baderproductions.fl).
-- ⚡  Builded a IMDb title scrapper with Node.js. Repository can be seen @ [imdb-scraper](https://github.com/baderproductions/imdb-scraper) and the scraper is live @ [spleeter.co.uk](https://spleeter.co.uk/).
-- 💵  Got my first commission for a website I built for a Chef which is live @ [RaulVidican.ro](https://raulvidican.ro/).
+- 🔍  Learning [Flutter](https://flutter.dev) by re-building my first published React Native app
+- 🖥  Finished building my personal website that's live @ [BADERproductions.net](https://baderproductions.net)
+- 📱  Published my first [React Native](https://reactnative.dev) app, live on Google Play Store @ [Filelist App](https://play.google.com/store/apps/details?id=com.baderproductions.fl)
+- ⚡  Builded a IMDb title scrapper with Node.js. Repository can be seen @ [imdb-scraper](https://github.com/baderproductions/imdb-scraper) and the scraper is live @ [spleeter.co.uk](https://spleeter.co.uk/)
+- 💵  Got my first commission for a website I built for a Chef which is live @ [RaulVidican.ro](https://raulvidican.ro/)
 
 ### 💻  Stack
 
