@@ -9,6 +9,12 @@
 > To find out about how I found my passion in coding you can read the **Story** @ [BADERproductions.co.uk](https://baderproductions.co.uk)
 
 ### What I'm about to these days:
+## 2022
+- 🌱 As a **Frontend Developer** part of the [GDM WEBMEDIA](https://www.linkedin.com/company/gdm-webmedia) team I worked on web and mobile applications for:
+- [McDonald's WWC 2022](https://corporate.mcdonalds.com/corpmcd/home.html) (USA) - McDonald’s franchises from around the world come together for the Global 2022 Worldwide Convention
+- [Deazy](https://www.deazy.com) (United Kingdom) - Deazy exists to create a fair world by creating an unbiased tech ecosystem where everyone can grow their business
+- [MyOnvent](https://myonvent.com) (Norway) - myOnvent is a global online events company founded in Åsmarka, Norway
+
 ## 2021
 - ✅  Got my first official job as a **Frontend developer** after two years since I started to code
 - 💵  Completed my first **Upwork job** which earned me $50
