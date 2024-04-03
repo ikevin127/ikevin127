@@ -9,7 +9,7 @@
 
 ### What I'm about to these days:
 ## 2024
-- 🇺🇸 Looking forward, the future holds exciting prospects tied to the USA, hinting at new beginnings without delving into the specifics
+- 🇺🇸 Looking forward, the future holds exciting prospects tied to the USA, hinting at new beginnings
 - 🎉 After **7 months** of dedication to delivering quality work as a **Contributor** at **Expensify**, I've been promoted to **Contributor+**
 
 ## 2023
