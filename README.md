@@ -10,7 +10,7 @@
 ### What I'm about to these days:
 ## 2024
 - 🇺🇸 Looking forward, the future holds exciting prospects tied to the USA, hinting at new beginnings
-- 🎉 After **7 months** of dedication to delivering quality work as a **Contributor** at **Expensify**, I've been promoted to **Contributor+**
+- 🎉 After **7 months** of dedication to delivering quality work as a **Contributor** at **Expensify**, I've been promoted to [**Contributor+**](https://github.com/Expensify/App/blob/main/contributingGuides/HOW_TO_BECOME_A_CONTRIBUTOR_PLUS.md)
 
 ## 2023
 - 💼 Began freelancing as a **Contributor** at [Expensify](https://github.com/Expensify), focusing on React Native for the development of the [New Expensify](https://new.expensify.com/) cross-platform application
