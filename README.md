@@ -28,7 +28,7 @@
 - 💵 Completed my first **Upwork job** which earned me $50
 
 ## 2020
-- 🖥 Finished building my personal website @ [BADERproductions.co.uk](https://baderproductions.co.uk) (down)
+- 🖥 Finished building my personal website @ [BADERproductions](https://baderproductions.pages.dev)
 - 📱 Published my first React Native app on Google Play Store @ [Filelist App](https://play.google.com/store/apps/details?id=com.baderproductions.fl) (down)
 - ⚡ Built an IMDb Scrapper w/ Node.js. Repository @ [imdb-scraper](https://github.com/baderproductions/imdb-scraper) and the app @ [18.168.213.34.nip.io/imdb-scraper](https://18.168.213.34.nip.io/imdb-scraper) (down)
 - 💶 Got my first commission for a website I built for a Chef which is live @ [RaulVidican.ro](https://raulvidican.ro/)
