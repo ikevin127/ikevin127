@@ -1,5 +1,5 @@
 <p align="center">
- <img width="300px" src="https://i.epvpimg.com/RCkibab.png" align="center" alt="Welcome picture" />
+ <img width="300px" src="https://pub-7bc9813ab8364c789fc36da35520cbe2.r2.dev/welcome_d086a591e3.png" align="center" alt="Welcome picture" />
  <p align="center"><b>🖐  Hello stranger, welcome to my GitHub profile!</b></p>
 </p>
 
